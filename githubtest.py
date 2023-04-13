@@ -1,0 +1,2 @@
+# linia testowa
+import random
